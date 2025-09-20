@@ -40,7 +40,7 @@ of  reps   performed  in  each  exercise.
     5. Wait for it to open ( might take some time as it will have to install all the libraries).
     6. Once the app is open , select the desired exercise you wish to perform.
     7. Make sure your background has good lighting and nothing is obstructing the Webcam's view.
-    8. Perform the exercise and your form will be monitored ,and alongside that the repetitions willbe counted as per the level of accuracy of the movement's performation.
+    8. Perform the exercise and your form will be monitored ,and alongside that the repetitions will be counted as per the level of accuracy of the movement's performation.
     9. Press 'Q' key on your keyboard to revert back to the menu screen.
     10. Close the app whenever you are done.
 Thank You.
