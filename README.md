@@ -36,8 +36,8 @@ of  reps   performed  in  each  exercise.
     1. Download all the files as zip.
     2. Extract the files in a folder of your choice ( using software such as winRAR).
     3. Navigate to the location of the .exe file.
-    4. Run the .exe file.
-    5. Wait for it to open ( might take some time as it will have to install all the libraries).
+    4. Run the app.py file.
+    5. Wait for it to open.
     6. Once the app is open , select the desired exercise you wish to perform.
     7. Make sure your background has good lighting and nothing is obstructing the Webcam's view.
     8. Perform the exercise and your form will be monitored ,and alongside that the repetitions will be counted as per the level of accuracy of the movement's performation.
