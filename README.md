@@ -7,7 +7,7 @@
 
 ## Team members:-
 
-- 1.Harsh Ratnaparkhe (24BCE10892).
+- Harsh Ratnaparkhe (24BCE10892).
 - Rudradeep Chakraborty (24BCE11151).
 - Yash Mehta (24BCE10638).
 - Prathmesh Kapil Dhakad(24BCE10301).
