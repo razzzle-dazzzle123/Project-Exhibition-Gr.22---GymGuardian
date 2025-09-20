@@ -28,8 +28,8 @@ feedback  to the   user correcting their
 form on the  exercise  which   they will
 be
 performing , and it also has  an inbuilt
-repitition counter to  count  the number
-of  reps   performed  in  eah  exercise.
+rep counter to  count  the number
+of  reps   performed  in  each  exercise.
 
 
 ## Instructions
